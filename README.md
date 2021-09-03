@@ -13,3 +13,4 @@ You will notice the value will increase or decrease when a button is clicked. Th
 I enjoyed learning this and React is a powerful and useful tool.
 
 
+Thank you for reading
